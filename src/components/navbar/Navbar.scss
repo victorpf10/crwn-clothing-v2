@@ -1,0 +1,20 @@
+.navbar-div {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 70px;
+  width: 100%;
+  padding: 0.5rem 1rem;
+  background-color: #fff;
+  border-bottom: 1px solid #e6e6e6;
+}
+
+.logo-container {
+  height: 100%;
+  width: 70px;
+  padding: 0px;
+}
+.tab-link {
+  color: black;
+  margin-right: 10px;
+}
